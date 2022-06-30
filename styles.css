@@ -1,0 +1,41 @@
+.post{width: 500px;}
+img{width: 500px;}
+.postHeader{
+    display: flex;
+}
+body{background: black;}
+.post{
+    background-color: white;
+    margin: 0 auto;
+}
+.fa-html5{
+    margin-top: 26px;
+    position:absolute ;
+    font-size: 30px;
+}
+h4{
+    margin-left: 25px;
+}
+.ellipsis{
+    position:absolute ;
+    margin-left: 31%;
+    font-size: 30px;
+    margin-top: 18px;
+}
+.HT{
+    margin-left: 6px;
+}
+.fa-bookmark{
+    position:absolute ;
+    margin-left: 25%;
+    font-size: 30px; 
+}
+.fa-heart, .fa-comment, .fa-paper-plane{
+    margin-left: 8px ;
+    font-size: 30px;
+}
+.paragraph{
+    margin-left: 12px;
+    overflow: hidden;
+}
+
